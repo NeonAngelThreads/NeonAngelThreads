@@ -18,24 +18,12 @@ I'm a collage student who passionates creating things useful with power of progr
 </p>
 
 ### 🌱 I’m currently learning:
-<a>
-    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="42" height="42" />
-</a>
-<a>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42" height="42" alt="MySQL"/>
-</a>
-
-<div>
-<style>
-        text { fill: #807; }
-        h2 { fill: #807;}
-a { border: #33a7ff; color: #807; text-decoration: none; }
-        @media (prefers-color-scheme: dark) {
-          text { fill: #f9f; }
-            h2 { fill: #f9f;}
-        }
-  </style>
-</div>
+<p style="user-select: none" >
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="42" height="42" />
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42" height="42" alt="MySQL"/>
+    </a>
+</p>
 <h2>✒️ Recent Posts:</h2>
 
 
