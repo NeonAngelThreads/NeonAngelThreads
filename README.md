@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Melibertan
 I'm a collage student who passionates creating useful things with programming power.   
-
-### 🛠️ My Technology Stack:
+<img src="https://komarev.com/ghpvc/?username=neonangelThreads&color=ff69b4">
+### 🛠️ My technology stack:
 <p style="user-select: none" >
 
 <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="42" height="42" alt="flask">
