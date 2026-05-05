@@ -2,7 +2,7 @@
 I'm a collage student who passionates creating useful things with programming power.   
 <img src="https://komarev.com/ghpvc/?username=neonangelThreads&color=ff69b4">
 ### 🛠️ My technology stack:
-<p style="user-select: none" >
+<p  >
 
 <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="42" height="42" alt="flask">
 
@@ -18,7 +18,7 @@ I'm a collage student who passionates creating useful things with programming po
 </p>
 
 ### 🌱 I’m currently learning:
-<p style="-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;" >
+<p >
 
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="42" height="42" />
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42" height="42" alt="MySQL"/>
