@@ -1,15 +1,14 @@
 ## Hi there!, I'm Lotiyu~
-<hr>
 <div align="center">
 
-_I am a student who passionating in building captivating things with power of code._
+_A student from Shenzhen, whose fervent passion lies in building captivating things with power of code._
 
 I am in it for a visionary creative developer, an azure explorer, and an architecture illuminator.  
 My journey into programming began in primary school, ignited purely by the profound, unadulterated joy of creation itself.
 
 **I hold sacred the philosophy of code aesthetics.** 
 <br>
-_Every line must breathe elegance, every structure must resonate with intention. I rigorously eschew redundancy and duplication._
+_Every line must breathe elegance, every abstraction must resonate with intention. I rigorously eschew redundancy and duplication._
 
 ### “Code possesses a soul; Creation knows no horizon.”
 
